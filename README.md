@@ -35,5 +35,10 @@ Section 2: Welcome to Remix! Simple Storage - 02:01:16 - 03:05:34
   - The EVM & A Recap of Lesson 2
   - Section Complete
 
-Section 3: Remix Storage Factory - 03:05:34 - ???
+Section 3: Remix Storage Factory - 03:05:34 - 03:31:55
   - Introduction
+  - Basic Solidity: Importing Contracts into other Contracts
+  - Basic Solidity: Interacting with other Contracts
+  - Basic Solidity: Inheritance & Overrides
+  - Lesson 3 Recap
+  - Section Complete
