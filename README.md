@@ -22,8 +22,18 @@ Section 1: Blockchain Basics - 00:09:05 - 02:01:16
   - High-Level Blockchain Fundamentals
   - Section Complete
 
-Section 2: Welcome to Remix! Simple Storage - 02:01:16 - ???
+Section 2: Welcome to Remix! Simple Storage - 02:01:16 - 03:05:34
   - Introduction
   - Setting Up Your First Contract
   - Basic Solidity: Types
-  - pick up at 02:29:00
+  - Basic Solidity: Functions
+  - Basic Solidity: Arrays & Structs
+  - Basic Solidity: Compiler Errors and Warnings
+  - Memory, Storage, Calldata (Intro)
+  - Mappings
+  - Deploying your First Contract
+  - The EVM & A Recap of Lesson 2
+  - Section Complete
+
+Section 3: Remix Storage Factory - 03:05:34 - ???
+  - Introduction
