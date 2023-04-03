@@ -51,4 +51,14 @@ Section 4: Remix Storage Factory - 03:31:55 - ???
   - Interfaces & Price Feeds
   - Importing from GitHub & NPM
   - Floating Point Math in Solidity
-  - pick up at 4:15:53
+  - Basic Solidity: Arrays & Structs II
+  - Review of Interfacs, Importing from GitHub, & Math in Solidity
+  - Libraries
+  - SafeMath, Overflow Checking, and the "unchecked" keywork
+  - Basic Solidity: For Loop
+  - Basic Solidity: Resetting an Array
+  - Sending ETH from a Contract
+  - Basic Solidity: Constructor
+  - Basic Solidity: Modifiers
+  - Testnet Demo
+  - Advanced Solidity: pick up at 05:05:41
