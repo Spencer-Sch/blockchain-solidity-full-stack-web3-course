@@ -43,7 +43,7 @@ Section 3: Remix Storage Factory - 03:05:34 - 03:31:55
   - Lesson 3 Recap
   - Section Complete
 
-Section 4: Remix Storage Factory - 03:31:55 - ???
+Section 4: Remix Storage Factory - 03:31:55 - 05:30:42
   - Introduction
   - Sending ETH Through a Function & Reverts
   - Chainlink & Oracles
@@ -61,4 +61,9 @@ Section 4: Remix Storage Factory - 03:31:55 - ???
   - Basic Solidity: Constructor
   - Basic Solidity: Modifiers
   - Testnet Demo
-  - Advanced Solidity: pick up at 05:05:41
+  - Advanced Solidity
+    - Immutable & Constant
+    - Custom Errors
+    - Receive & Fallback Functions
+    - Lesson 4 Recap
+  - Section Complete
