@@ -69,5 +69,21 @@ Section 4: Remix Storage Factory - 03:31:55 - 05:30:42
   - Section Complete
 
 Section 5: Ethers.js Simple Storage - 05:30:42 - ???
-  - pick up here
-
+ - Effective Debugging Strategies & Getting Help
+   - How to Debug Anything Video
+ - Installation & Setup
+   - Mac & Linux Setup
+   - Windows Setup
+   - Gitpod
+ - Local Development Introduction
+   - Optional Javascript Crash Courses
+ - Tiny Javascript Refresher
+ - Asynchronous Programming in Javascript
+ - Compiling our Solidity
+ - Ganache & Networks
+ - Introduction to Ethers.js
+   - A Note on the await Keyword
+ - Adding Transaction Overrides
+ - Transaction Receipts
+ - Sending a "raw" Transaction in Ethersjs
+ - Pick up at 07:25:00
