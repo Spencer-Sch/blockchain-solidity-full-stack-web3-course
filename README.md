@@ -86,4 +86,12 @@ Section 5: Ethers.js Simple Storage - 05:30:42 - ???
  - Adding Transaction Overrides
  - Transaction Receipts
  - Sending a "raw" Transaction in Ethersjs
- - Pick up at 07:25:00
+ - Interacting with Contracts in Ethersjs
+ - Environment Variables
+ - Better Private Key Management
+ - Optional Prettier Formatting
+ - Deploying to a Testnet or a Mainnet
+
+
+ - Pick up at 08:04:28
+
