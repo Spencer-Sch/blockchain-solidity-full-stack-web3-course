@@ -96,4 +96,15 @@
  - Lesson 5 Recap
    - Typescript Ethers Simple Storage
 
+### Section 6: Hardhat Simple Storage - 08:20:19 - ???
+ - Introduction
+ - Hardhat Setup
+   - Troubleshooting Hardaht Setup
+ - Hardhat Setup Continued
+ - Deploying SimpleStorage from Hardhat
+ - Networks in Hardhat
+ - Programatic Verification
+ - Interacting with Contracts in Hardhat
+ - Artifacts Troubleshooting
 
+ pick up at 09:10:51
