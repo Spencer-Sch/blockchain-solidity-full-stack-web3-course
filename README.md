@@ -4,12 +4,12 @@
 #### [Course Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 
 
-Section 0: Welcome To Blockchain - 00:00:00 - 00:09:05
+### Section 0: Welcome To Blockchain - 00:00:00 - 00:09:05
   - Welcome to the course!
   - Best Practices
   - Section Complete
 
-Section 1: Blockchain Basics - 00:09:05 - 02:01:16
+### Section 1: Blockchain Basics - 00:09:05 - 02:01:16
   - What is a Blockchain? What does a blockchain do?
   - The Purpose Of Smart Contracts
   - Other Blockchain Benefits
@@ -22,7 +22,7 @@ Section 1: Blockchain Basics - 00:09:05 - 02:01:16
   - High-Level Blockchain Fundamentals
   - Section Complete
 
-Section 2: Welcome to Remix! Simple Storage - 02:01:16 - 03:05:34
+### Section 2: Welcome to Remix! Simple Storage - 02:01:16 - 03:05:34
   - Introduction
   - Setting Up Your First Contract
   - Basic Solidity: Types
@@ -35,7 +35,7 @@ Section 2: Welcome to Remix! Simple Storage - 02:01:16 - 03:05:34
   - The EVM & A Recap of Lesson 2
   - Section Complete
 
-Section 3: Remix Storage Factory - 03:05:34 - 03:31:55
+### Section 3: Remix Storage Factory - 03:05:34 - 03:31:55
   - Introduction
   - Basic Solidity: Importing Contracts into other Contracts
   - Basic Solidity: Interacting with other Contracts
@@ -43,7 +43,7 @@ Section 3: Remix Storage Factory - 03:05:34 - 03:31:55
   - Lesson 3 Recap
   - Section Complete
 
-Section 4: Remix Storage Factory - 03:31:55 - 05:30:42
+### Section 4: Remix Storage Factory - 03:31:55 - 05:30:42
   - Introduction
   - Sending ETH Through a Function & Reverts
   - Chainlink & Oracles
@@ -68,7 +68,7 @@ Section 4: Remix Storage Factory - 03:31:55 - 05:30:42
     - Lesson 4 Recap
   - Section Complete
 
-Section 5: Ethers.js Simple Storage - 05:30:42 - ???
+### Section 5: Ethers.js Simple Storage - 05:30:42 - 08:20:19
  - Effective Debugging Strategies & Getting Help
    - How to Debug Anything Video
  - Installation & Setup
@@ -91,7 +91,9 @@ Section 5: Ethers.js Simple Storage - 05:30:42 - ???
  - Better Private Key Management
  - Optional Prettier Formatting
  - Deploying to a Testnet or a Mainnet
+ - Verifying on Block Explorers from the UI
+ - Alchemy Dashboard & The Mempool
+ - Lesson 5 Recap
+   - Typescript Ethers Simple Storage
 
-
- - Pick up at 08:04:28
 
