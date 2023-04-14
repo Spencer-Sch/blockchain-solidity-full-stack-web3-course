@@ -95,6 +95,7 @@
  - Alchemy Dashboard & The Mempool
  - Lesson 5 Recap
    - Typescript Ethers Simple Storage
+ - Section Complete
 
 ### Section 6: Hardhat Simple Storage - 08:20:19 - ???
  - Introduction
@@ -110,3 +111,9 @@
  - Hardhat Localhost Node
  - The Hardhat Console
  - Hardhat Tests
+ - Hardhat Gas Reporter
+ - Solidity Coverage
+ - Hardhat Waffle
+ - Lesson 6 Recap
+   - Typescript Hardhat Simple Storage
+ - Section Complete
