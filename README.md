@@ -106,5 +106,7 @@
  - Programatic Verification
  - Interacting with Contracts in Hardhat
  - Artifacts Troubleshooting
-
- pick up at 09:10:51
+ - Custom Hardhat Tasks
+ - Hardhat Localhost Node
+ - The Hardhat Console
+ - Hardhat Tests
