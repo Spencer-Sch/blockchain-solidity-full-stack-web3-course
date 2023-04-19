@@ -97,7 +97,7 @@
    - Typescript Ethers Simple Storage
  - Section Complete
 
-### Section 6: Hardhat Simple Storage - 08:20:19 - ???
+### Section 6: Hardhat Simple Storage - 08:20:19 - 10:00:49
  - Introduction
  - Hardhat Setup
    - Troubleshooting Hardaht Setup
@@ -117,3 +117,16 @@
  - Lesson 6 Recap
    - Typescript Hardhat Simple Storage
  - Section Complete
+
+### Section 7: Hardhat Fund Me - 10:00:49 - ???
+ - Introduction
+ - Hardhat Setup - Fund Me
+ - Linting
+ - Hardhat Setup - Fund Me - Continued
+ - Importing from NPM
+ - Hardhat Deploy
+ - Mocking
+ - Utils Folder
+ - Testnet Demo - Hardhat Fund Me
+
+ pick up at 11:00:20
