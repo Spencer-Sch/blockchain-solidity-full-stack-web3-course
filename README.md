@@ -118,7 +118,7 @@
    - Typescript Hardhat Simple Storage
  - Section Complete
 
-### Section 7: Hardhat Fund Me - 10:00:49 - ???
+### Section 7: Hardhat Fund Me - 10:00:49 - 12:32:57
  - Introduction
  - Hardhat Setup - Fund Me
  - Linting
@@ -128,5 +128,19 @@
  - Mocking
  - Utils Folder
  - Testnet Demo - Hardhat Fund Me
-
- pick up at 11:00:20
+ - Solidity Style Guide
+ - Testing Fund Me
+ - Breakpoints & Debugging
+ - Gas III:
+ - console.log & Debugging
+ - Testing Fund Me II
+ - Storage in Solidity
+ - Gas Optimizations using Storage Knowledge
+ - Solidity Chainlink Style Guide
+ - Storage Review
+ - Staging Tests
+ - Running Scripts on a Local Node
+ - Adding Scripts to your package.json
+ - Pushing to GitHub
+ - 🐸🐦 Tweet Me (add your repo in)!
+ - Section Complete
