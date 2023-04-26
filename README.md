@@ -161,3 +161,18 @@
  - Withdraw Function
  - Lesson 8 Recap
    - Optional Links
+ - Section Complete
+
+### Section 9: Hardhat Smart Contract Lottery - 13:41:05 - ???
+ - Introduction
+ - Hardhat Setup - Smart Contract Lottery
+ - Raffle.sol Setup
+ - Introduction to Events
+ - Events in Raffle.sol
+ - Introduction to Chainlink VRF
+   - Sub-Lesson: Chainlink VRF
+ - Implementing Chainlink VRF - Introduction
+   - Hardhat Shorthand
+ - Implementing Chainlink VRF - The Request
+
+- pick up at 14:22:58
