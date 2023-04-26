@@ -144,3 +144,20 @@
  - Pushing to GitHub
  - 🐸🐦 Tweet Me (add your repo in)!
  - Section Complete
+
+
+### Section 8: HTML / Javascript Fund Me (Full Stack / Front End) - 12:32:57 - 13:41:05
+ - Introduction
+ - How Websites work with Web3 Wallets
+ - HTML Setup
+ - Connecting HTML to Metamask
+ - Javascript in it's own file
+ - ES6 vs Nodejs
+ - Sending a transaction from a Website
+ - Resetting an Account in Metamask
+ - Listening for Events and Completed Transactions
+ - Input Forms
+ - Reading from the Blockchain
+ - Withdraw Function
+ - Lesson 8 Recap
+   - Optional Links
