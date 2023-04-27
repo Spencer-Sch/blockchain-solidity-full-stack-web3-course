@@ -174,5 +174,13 @@
  - Implementing Chainlink VRF - Introduction
    - Hardhat Shorthand
  - Implementing Chainlink VRF - The Request
+ - Implementing Chainlink VRF - The FulFill
+   - Modulo
+ - Introduction to Chainlink Keepers
+ - Implementing Chainlink Keepers - checkUpkeep
+   - Enums
+ - Implementing Chainlink Keepers - checkUpkeep continued
+ - Implementing Chainlink Keepers - performUpkeep
+ - Code Cleanup
 
-- pick up at 14:22:58
+- pick up at 14:56:39
