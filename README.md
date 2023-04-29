@@ -182,5 +182,16 @@
  - Implementing Chainlink Keepers - checkUpkeep continued
  - Implementing Chainlink Keepers - performUpkeep
  - Code Cleanup
+ - Deploying Raffle.sol
+   - Mock Chainlink VRF Coordinator
+   - Continued
+ - Raffle.sol Unit Tests
+   - Testing Events & Chai Matchers
+   - Continued I
+ - Hardhat Methods & Time Travel
+   - Continued II
+ - Callstatic
+   - Continued III
+   - Massive Promise Test
 
-- pick up at 14:56:39
+- pick up at 16:03:56
