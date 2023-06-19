@@ -163,7 +163,7 @@
    - Optional Links
  - Section Complete
 
-### Section 9: Hardhat Smart Contract Lottery - 13:41:05 - ???
+### Section 9: Hardhat Smart Contract Lottery - 13:41:05 - 16:34:09
  - Introduction
  - Hardhat Setup - Smart Contract Lottery
  - Raffle.sol Setup
@@ -193,5 +193,14 @@
  - Callstatic
    - Continued III
    - Massive Promise Test
+   - ontinued IV
+- Raffle.sol Staging Tests
+- Testing on a Testnet
+    - Recommended LINK amounts for Sepolia Staging Test:
+- Conclusion
+- Typescript - Smart Contract Lottery
+ - Section Complete
 
-- pick up at 16:03:56
+### Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End) 16:34:09 - ???
+
+pick up at 16:34:09
