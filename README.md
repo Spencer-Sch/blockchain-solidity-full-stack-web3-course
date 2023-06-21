@@ -202,5 +202,8 @@
  - Section Complete
 
 ### Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End) 16:34:09 - ???
+- Introduction
+    - Optional Sub-Lesson: Full Stack Development & Other Libraries
+- NextJS Setup
 
-pick up at 16:34:09
+pick up at 16:55:12
