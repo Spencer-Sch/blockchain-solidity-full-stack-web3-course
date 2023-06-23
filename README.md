@@ -228,4 +228,8 @@
 - Hosting on IPFS & Filecoin using Fleek
 - Filecoin Overview
 - Lesson 10 Recap
- - Section Complete
+- Section Complete
+
+### Lesson 11: Hardhat Starter Kit 18:51:38 - 18:59:25
+- Overview of Hardhat Starter Kit
+- Section Complete
