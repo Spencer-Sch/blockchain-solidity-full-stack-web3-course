@@ -201,9 +201,31 @@
 - Typescript - Smart Contract Lottery
  - Section Complete
 
-### Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End) 16:34:09 - ???
+### Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End) 16:34:09 - 18:51:38
 - Introduction
     - Optional Sub-Lesson: Full Stack Development & Other Libraries
 - NextJS Setup
-
-pick up at 16:55:12
+- Manual Header I
+    - React Hooks
+- Manual Header II
+- useEffect Hook
+- Local Storage
+- isWeb3EnabledLoading
+- web3uikit
+- Introduction to Calling Functions in Nextjs
+    - Automatic Constant Value UI Updater
+    - runContractFunction
+- useState
+- Calling Functions in NextJS
+- useNotification
+- Reading & Displaying Contract Data
+- A Note about onSuccess
+- A Challenge to You
+- Tailwind & Styling
+- Introduction to Hosting your Site
+- IPFS
+- Hosting on IPFS
+- Hosting on IPFS & Filecoin using Fleek
+- Filecoin Overview
+- Lesson 10 Recap
+ - Section Complete
