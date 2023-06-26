@@ -242,4 +242,16 @@
 - Lesson 12 Recap
 - Section Complete
 
-### Lesson 13: Hardhat DeFi & Aave 19:16:14 - ???
+### Lesson 13: Hardhat DeFi & Aave 19:16:14 - 20:28:52
+- What is DeFi?
+- What is Aave?
+- Programatic Borrowing & Lending
+- WETH - Wrapped ETH
+- Forking Mainnet
+- Depositing into Aave
+- Borrowing from Aave
+- Repaying with Aave
+- Visualizing the Transactions
+- Lesson 13 Recap
+- Happy Bow-Tie Friday with Austin Griffith
+    - More DeFi Learnings:
