@@ -234,9 +234,12 @@
 - Overview of Hardhat Starter Kit
 - Section Complete
 
-### Lesson 12: Hardhat ERC20s 18:51:38 - ???
+### Lesson 12: Hardhat ERC20s 18:51:38 - 19:16:14
 - What is an ERC? What is an EIP?
 - What is an ERC20?
 - Manually Creating an ERC20 Token
+- Creating an ERC20 Token with Openzeppelin
+- Lesson 12 Recap
+- Section Complete
 
-pick up at 19:10:34
+### Lesson 13: Hardhat DeFi & Aave 19:16:14 - ???
