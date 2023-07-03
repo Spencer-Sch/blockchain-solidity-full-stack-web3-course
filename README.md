@@ -268,5 +268,8 @@
     - Setting the NFT Image
     - Setting an NFT Mint Price
     - Deploy Script
+    - Uploading Token Images with Pinata
+    - Uploading Token URIs (metadata) with Pinata
+    - Deploying
 
-pick up at 21:25:58
+pick up at 22:01:06
