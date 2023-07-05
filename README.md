@@ -271,5 +271,16 @@
     - Uploading Token Images with Pinata
     - Uploading Token URIs (metadata) with Pinata
     - Deploying
+    - Tests
+- Dynamic SVG On-Chain NFT
+    - What is an SVG?
+    - Initial Code
+    - Base64 Encoding
+- Advanced: EVM Opcodes, Encoding, and Calling
+    - abi.encode & abi.encodePacked
+    - Introduction to Encoding Function Calls Directly
+    - Introduction to Encoding Function Calls Recap
+    - Encoding Function Calls Directly
 
-pick up at 22:01:06
+
+pick up at 23:01:15
