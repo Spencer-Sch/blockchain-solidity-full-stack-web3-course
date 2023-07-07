@@ -281,6 +281,8 @@
     - Introduction to Encoding Function Calls Directly
     - Introduction to Encoding Function Calls Recap
     - Encoding Function Calls Directly
+    - Creating an NFT TokenURI on-Chain
+    - Making the NFT Dynamic
+    - Deploy Script
 
-
-pick up at 23:01:15
+pick up at 23:30:06
