@@ -284,5 +284,6 @@
     - Creating an NFT TokenURI on-Chain
     - Making the NFT Dynamic
     - Deploy Script
+- Deploying the NFTs to a Testnet
 
-pick up at 23:30:06
+pick up at 23:34:00
