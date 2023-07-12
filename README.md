@@ -255,6 +255,7 @@
 - Lesson 13 Recap
 - Happy Bow-Tie Friday with Austin Griffith
     - More DeFi Learnings:
+- Section Complete
 
 ### Lesson 14: Hardhat NFTs (EVERYTHING you need to know about NFTs) 20:28:52 - ???
 - What is an NFT?
@@ -285,5 +286,5 @@
     - Making the NFT Dynamic
     - Deploy Script
 - Deploying the NFTs to a Testnet
-
-pick up at 23:34:00
+- Lesson 14 Recap
+- Section Complete
