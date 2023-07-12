@@ -257,7 +257,7 @@
     - More DeFi Learnings:
 - Section Complete
 
-### Lesson 14: Hardhat NFTs (EVERYTHING you need to know about NFTs) 20:28:52 - ???
+### Lesson 14: Hardhat NFTs (EVERYTHING you need to know about NFTs) 20:28:52 - 23:37:03
 - What is an NFT?
 - Code Overview
 - Hardhat Setup
@@ -288,3 +288,8 @@
 - Deploying the NFTs to a Testnet
 - Lesson 14 Recap
 - Section Complete
+
+### Lesson 15: NextJS NFT Marketplace 23:37:03 - ???
+- Introduction
+
+pick up at 23:43:27
