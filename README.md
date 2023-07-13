@@ -291,5 +291,10 @@
 
 ### Lesson 15: NextJS NFT Marketplace 23:37:03 - ???
 - Introduction
+- Part I: NFT Marketplace Contracts
+    - Hardhat Setup
+    - NftMarketplace.sol
+- Reentrancy
+    - NftMarketplace.sol - Continued
 
-pick up at 23:43:27
+pick up at 1:00:26:03
