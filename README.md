@@ -296,5 +296,7 @@
     - NftMarketplace.sol
 - Reentrancy
     - NftMarketplace.sol - Continued
+    - NftMarketplace.sol - Deploy Script
+    - NftMarketplace.sol - Tests
 
-pick up at 1:00:26:03
+pick up at 1:00:43:35
