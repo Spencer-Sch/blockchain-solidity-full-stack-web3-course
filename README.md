@@ -297,6 +297,10 @@
 - Reentrancy
     - NftMarketplace.sol - Continued
     - NftMarketplace.sol - Deploy Script
-    - NftMarketplace.sol - Tests (continued 2)
+    - NftMarketplace.sol - Tests
+    - NftMarketplace.sol - Scripts
+- Part II: Moralis Front End
+    - What is Moralis?
+    - NextJS Setup
 
-pick up at 1:00:43:35
+pick up at 1:00:55:27
