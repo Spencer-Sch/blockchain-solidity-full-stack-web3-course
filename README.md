@@ -302,5 +302,12 @@
 - Part II: Moralis Front End
     - What is Moralis?
     - NextJS Setup
+    - Adding Tailwind
+    - Introduction to Indexing in Web3
+    - Connecting Moralis to our Local Hardhat Node
+    - Moralis Event Sync
+        - Reset Local Chain
+    - Moralis Cloud Functions
+        - Practice Resetting the Local Chain
 
-pick up at 1:00:55:27
+pick up at 1:02:14:10
