@@ -309,5 +309,8 @@
         - Reset Local Chain
     - Moralis Cloud Functions
         - Practice Resetting the Local Chain
+    - Moralis Cloud Functions II
+    - Querying the Moralis Database
+    - Rendering the NFT Images
 
-pick up at 1:02:14:10
+pick up at 1:07:54:30
