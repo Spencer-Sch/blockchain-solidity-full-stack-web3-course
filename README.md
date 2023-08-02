@@ -312,5 +312,8 @@
     - Moralis Cloud Functions II
     - Querying the Moralis Database
     - Rendering the NFT Images
+    - Update Listing Modal
+    - Buy NFT Listing
+    - Listing NFTs for Sale
 
-pick up at 1:07:54:30
+pick up at 1:03:57:26
