@@ -315,5 +315,8 @@
     - Update Listing Modal
     - Buy NFT Listing
     - Listing NFTs for Sale
+- Part III: TheGraph Front End
+    - Introduction
+    - What is The Graph?
 
-pick up at 1:03:57:26
+pick up at 1:04:07:38
