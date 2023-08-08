@@ -318,5 +318,8 @@
 - Part III: TheGraph Front End
     - Introduction
     - What is The Graph?
+    - Building a Subgraph
+    - Deploying our Subgraph
+    - Reading from The Graph
 
-pick up at 1:04:07:38
+pick up at 1:04:47:22
